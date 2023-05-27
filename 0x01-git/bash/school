@@ -3,11 +3,15 @@
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
+=======
+echo "The school is open!"
 >>>>>>> update_script
 =======
 echo "This School is so cool!"
 
 echo "ALX School"
+
+echo "The school is open!"
 
 >>>>>>> update_script
 
